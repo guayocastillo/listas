@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png",+ Listas en M3U.CL ✪ | CL
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/16_Conecta_TV.png",Conecta TV ✪ | MX
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",Mundo de la Musica TV ✪ | CL
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",Recuerdos Retro Radio TV ✪ | CL
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/642_8_NTV.png",8 NTV | MX
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/660_Canal_10_Chiapas.png",Canal 10 Chiapas | MX
+https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1409_GikTVMX.png",GikTVMX | MX
+https://pistream.ddns.net/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/652_Mexiquense_TV.png",Mexiquense TV | MX
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/673_RCG_1_Saltillo.png",RCG 1 Saltillo | MX
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/646_SIZART_Canal_24_Zacatecas.png",SIZART Canal 24 Zacatecas | MX
+https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1606_Tempus_Stream.png",Tempus Stream | MX
+https://video1.getstreamhosting.com:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/647_Tlaxcala_TV.png",Tlaxcala TV | MX
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/638_TV_Lobo.png",TV Lobo | MX
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/656_TV4_Noticias.png",TV4 Noticias | MX
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/651_TVP_Culiacan.png",TVP Culiacan | MX
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/648_TVP_Los_Mochis.png",TVP Los Mochis | MX
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/649_TVP_Mazatlan.png",TVP Mazatlan | MX
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/650_TVP_Obregon.png",TVP Obregon | MX
+https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/641_UMTV.png",UMTV | MX
+https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1042_AMX_Noticias.png",AMX Noticias | MX
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png",Alcance TV | MX
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png",PRIDEtv Latam | CL
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
